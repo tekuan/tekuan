@@ -1,4 +1,4 @@
-# Hi there, I'm Larissa Lima 👋
+# Hi there, I'm Larissa Bianca 👋
 
 Software Developer with experience building web applications, APIs, and scalable solutions. My background is primarily focused on Ruby on Rails and React, with hands-on experience in backend development, system integrations, cloud services, and modern web technologies.
 
