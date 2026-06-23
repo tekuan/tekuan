@@ -1,26 +1,23 @@
-### Olá ... 👋
-<div align="center">
-  <a href="https://github.com/tekuan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tekuan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekuan&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Tekuan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tekuan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tekuan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tekuan-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Tekuan-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Tekuan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Tekuan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tekuan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-##
-  
-<div align="center"> 
-  <a href="https://instagram.com/tekuan.lb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:biancahlary@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larissa-bianca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <img src="https://github.com/tekuan/tekuan/blob/output/github-contribution-grid-snake.svg"/>
- </div>
- 
+# Hi there, I'm Larissa Lima 👋
+
+Software Developer with experience building web applications, APIs, and scalable solutions. My background is primarily focused on Ruby on Rails and React, with hands-on experience in backend development, system integrations, cloud services, and modern web technologies.
+
+I enjoy solving real-world problems through software and continuously learning new technologies. Currently, I'm exploring Artificial Intelligence, educational technology, and modern AI-powered applications.
+
+## ⚡ Fun Facts
+
+* 🎬 K-Drama enthusiast
+* ✈️ Love traveling and discovering new places
+* 🎵 Music and history lover
+* 🤖 Curious about AI and emerging technologies
+* 📚 Always learning something new
+
+## 📫 Connect With Me
+
+* LinkedIn: [https://www.linkedin.com/in/larissa-bianca/]
+* Email: [larissa_bianca@outlook.com]
+
+---
+
+> *"In a dark place we find ourselves, and a little more knowledge lights our way."*
+> — Yoda
