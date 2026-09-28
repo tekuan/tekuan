@@ -14,7 +14,7 @@ I enjoy solving real-world problems through software and continuously learning n
 ## 📫 Connect With Me
 
 * LinkedIn: [https://www.linkedin.com/in/larissa-bianca/]
-* Email: [larissa_bianca@outlook.com]
+* Email: [larissa.boslima@gmail.com]
 
 ---
 
